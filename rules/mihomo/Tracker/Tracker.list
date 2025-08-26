@@ -2176,9 +2176,13 @@ udp://hificode.in:6969/announce
 
 udp://home.kray.pw:6969/announce
 
+udp://home.yxgz.club:6969/announce
+
 udp://http//www.peckservers.com:9000/announce
 
 udp://htz3.noho.st:6969/announce
+
+udp://hzzwly.gq:6969/announce
 
 udp://ibksturm.synology.me:6969/announce
 
@@ -2553,6 +2557,10 @@ udp://tracker.moxing.party:6969/announce
 udp://tracker.mywaifu.best:6969/announce
 
 udp://tracker.nartlof.com.br:6969/announce
+
+udp://tracker.netmap.top:6969/announce
+
+udp://tracker.novaopcj.eu.org:6969/announce
 
 udp://tracker.ololosh.space:6969/announce
 
